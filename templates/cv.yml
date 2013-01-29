@@ -1,0 +1,34 @@
+name: "John Doe"
+
+contacts:
+  skype: johndoe
+  jabber: john@jabber.example.org
+  email: "john@example.org"
+
+social:
+  twitter: johndoe
+  blog: "http://example.org"
+  github: "johndoe"
+  facebook: "johndoe"
+
+languages:
+  - name: Ruby
+  - name: Ruby on Rails
+  - name: JavaScript
+  - name: Shell
+  - name: PHP
+  - name: Objective-C
+  - name: Erlang
+  - name: Python
+  - name: Node.js
+  - name: HTML/CSS (Web Standards)
+
+education:
+  - title: Computer Science
+    when: 2007-2012
+    institution: MIT
+
+experience:
+  - title: System Developer
+    company: Acme Inc.
+    when: 2010-2012
